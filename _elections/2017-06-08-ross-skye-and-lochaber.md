@@ -1,9 +1,9 @@
----
+o---
 title: Something New for Ross, Skye and Lochaber
 candidacy_id: "parlross-skye-and-lochaber2017-06-08"
 ---
 
-I'm Lewis Sturrock, a Lecturer in Computing & Digital Media, contributer to charitable projects, and local resident. I have interests in technology, sustainability, economics and education. I'm standing for Parliament in the 2017 general election because I believe every member of society has the power to contribute to a better world, given the right tools.
+I'm Lewis Sturrock, a Lecturer in Computing & Digital Media, contributor to charitable projects, and local resident. I have interests in technology, sustainability, economics and education. I'm standing for Parliament in the 2017 general election because I believe every member of society has the power to contribute to a better world, given the right tools.
 
 ### Something New believes in:
 
